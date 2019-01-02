@@ -3,4 +3,3 @@ ujson
 urllib3
 python-telegram-bot==5.3
 python-dotenv==0.5.1
-python ../datmusic/main.py
